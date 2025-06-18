@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "075052bc3f3e479796210737251706"
+API_KEY = "you_weather_api"_key
 BASE_URL = "http://api.weatherapi.com/v1"
 
 def get_weather_forecast(city, days=7):
