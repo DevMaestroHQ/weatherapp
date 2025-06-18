@@ -1,0 +1,38 @@
+{
+  "English": {
+    "current_weather": "📍 Current Weather in",
+    "temperature": "🌡️ Temperature",
+    "humidity": "💧 Humidity",
+    "wind": "🌬️ Wind",
+    "forecast": "📅 7-Day Forecast",
+    "hourly_chart": "📈 Historical Temperature Trend",
+    "air_quality": "🌫️ Air Quality",
+    "astronomy": "🌙 Astronomy",
+    "alert": "⚠️ Alert",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "moon_phase": "Moon Phase",
+    "language": "Language",
+    "unit": "Unit",
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "Nepali": {
+    "current_weather": "📍 हालको मौसम",
+    "temperature": "🌡️ तापमान",
+    "humidity": "💧 आर्द्रता",
+    "wind": "🌬️ हावा",
+    "forecast": "📅 ७ दिने मौसम पूर्वानुमान",
+    "hourly_chart": "📈 ऐतिहासिक तापक्रम प्रवृत्ति",
+    "air_quality": "🌫️ वायु गुणस्तर",
+    "astronomy": "🌙 खगोलशास्त्र",
+    "alert": "⚠️ सूचना",
+    "sunrise": "सूर्योदय",
+    "sunset": "सूर्यास्त",
+    "moon_phase": "चन्द्र चरण",
+    "language": "भाषा",
+    "unit": "एकाइ",
+    "dark": "डार्क",
+    "light": "लाइट"
+  }
+}
